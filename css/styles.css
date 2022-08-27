@@ -1,0 +1,10 @@
+.background-image {
+    background-image: url('C:/Users/marko/Documents/Project/DataSciencePortfolio/Assets/background_image.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+
+body {
+    background-color: grey;
+}
